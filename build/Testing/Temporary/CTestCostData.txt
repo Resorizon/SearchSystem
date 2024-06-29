@@ -1,0 +1,6 @@
+SearchSystemTests 5 0.0243394
+AddDocumentTest 2 0.00794165
+MultipleDocumentsTest 1 0.0078715
+WordNotFoundTest 1 0.0079889
+DocumentWithRepeatingWordsTest 1 0.0075275
+---

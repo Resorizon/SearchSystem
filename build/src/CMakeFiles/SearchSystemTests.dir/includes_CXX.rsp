@@ -1,0 +1,1 @@
+-IC:/develop/SearchSystem/include -IC:/develop/SearchSystem/nlohmann_json/include -isystem "C:/develop/SearchSystem/build/_deps/googletest-src/googletest/include" -isystem "C:/develop/SearchSystem/build/_deps/googletest-src/googletest"
