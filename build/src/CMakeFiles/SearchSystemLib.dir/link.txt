@@ -1,2 +1,0 @@
-C:\mingw64\bin\ar.exe qc libSearchSystemLib.a CMakeFiles/SearchSystemLib.dir/main.cpp.obj CMakeFiles/SearchSystemLib.dir/ConverterJSON.cpp.obj CMakeFiles/SearchSystemLib.dir/InvertedIndex.cpp.obj CMakeFiles/SearchSystemLib.dir/SearchServer.cpp.obj CMakeFiles/SearchSystemLib.dir/Utils.cpp.obj
-C:\mingw64\bin\ranlib.exe libSearchSystemLib.a

@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\SearchSystemTests.dir/objects.a
-C:\mingw64\bin\ar.exe qc CMakeFiles\SearchSystemTests.dir/objects.a @CMakeFiles\SearchSystemTests.dir\objects1.rsp
-C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\SearchSystemTests.dir/objects.a -Wl,--no-whole-archive -o SearchSystemTests.exe -Wl,--out-implib,libSearchSystemTests.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SearchSystemTests.dir\linkLibs.rsp
